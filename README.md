@@ -1,7 +1,7 @@
-# Wavecon-Telecom
+# Wavecon-Telecom - Business Analytics Project
 
-## Live Dashboard
-https://app.powerbi.com/view?r=eyJrIjoiOWY4OTc4OTItZjZmOC00ODcxLTk5YzQtNmZmOGE2MTE2YjUyIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+### Live Dashboard: [View Here](https://app.powerbi.com/view?r=eyJrIjoiOWY4OTc4OTItZjZmOC00ODcxLTk5YzQtNmZmOGE2MTE2YjUyIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+### Video Presentation: [Watch Here](https://www.linkedin.com/feed/update/urn:li:activity:7441006655913455616/?originTrackingId=xCsbOvfBkXLDT%2BR9VCC%2Biw%3D%3D)
 
 ## PROJECT OVERVIEW
 
