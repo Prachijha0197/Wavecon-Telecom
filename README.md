@@ -28,8 +28,14 @@ The purpose of this project was to:
 4. Storytelling: Connected technical findings to business KPIs and strategic actions.
 
 ## Dashboard screenshots
+1. Revenue & 5G Adoption Dashboard
 <img width="951" height="754" alt="image" src="https://github.com/user-attachments/assets/3b96ea58-523d-4b7b-847c-e0d003c33139" />
 
+2. City-Level KPI Dashboard
+<img width="944" height="740" alt="image" src="https://github.com/user-attachments/assets/703e800c-51ea-42cd-a0c3-60209b60c1ca" />
+
+3. Plan Performance Dashboard
+<img width="942" height="742" alt="image" src="https://github.com/user-attachments/assets/43b387d1-8525-4ac1-aca4-8c15ea0862ba" />
 
 ## Key Findings
 5G Impact: Significant revenue uplift post-launch, with faster adoption in metro cities.
